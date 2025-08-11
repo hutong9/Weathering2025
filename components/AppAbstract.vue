@@ -1,9 +1,9 @@
 <!--
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
- * @LastEditors: hutong9 470048408@qq.com
- * @LastEditTime: 2024-04-29 15:48:10
- * @FilePath: \isotope2024-master\components\AppAbstract.vue
+ * @LastEditors: HuTong 470048408@qq.com
+ * @LastEditTime: 2025-08-11 16:59:21
+ * @FilePath: \Weathering2025\components\AppAbstract.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
 -->
@@ -21,16 +21,17 @@
       </p>
       <p><b>注意：</b>摘要请参考摘要模板</p>
       <p><b>方式：</b>请登录 <a href="http://isotope2024.com">http://isotope2024.com</a> 上传“摘要”。</p>
-      <p><b>温馨提示：</b>请参考附件摘要模板。摘要以提供论文的内容梗概为目的，句式力求 简明扼要、慎用长句。摘要结构建议包括：研究目的、研究方法、主要结果和结 论等（内容要具体明确，勿使用空洞的语句）。摘要不能是结论的简单重复，尽
-量不要使用变量符号、公式、参考文献，不宜用缩略词。
-</p>
+      <p><b>温馨提示：</b>请参考附件摘要模板。摘要以提供论文的内容梗概为目的，句式力求 简明扼要、慎用长句。摘要结构建议包括：研究目的、研究方法、主要结果和结
+        论等（内容要具体明确，勿使用空洞的语句）。摘要不能是结论的简单重复，尽
+        量不要使用变量符号、公式、参考文献，不宜用缩略词。
+      </p>
       <br />
 
       <div class="text-center p-4">
         <button class="btn btn-primary m-4 text-xl">
           <a href="/摘要模板.doc" download="/摘要模板.doc">模板下载</a></button><br />
         <button class="btn btn-secondary text-xl">
-          <a href="http://isotope2024.meeting666.com/UserCentral/Index/Login">摘要提交</a>
+          <a href="http://weathering.meeting666.com/UserCentral/Index/Login">摘要提交</a>
         </button>
       </div>
     </div>
