@@ -151,7 +151,7 @@
           </p>
 
           <p class=" animate__animated animate__bounceInUp">
-            　　风化作用是支撑宜居地球的重要方面。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体;风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的唯一来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用通过吸收和释放C02，成为驱动气候变化、维持地球宜居气候的关键。风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化C02消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化C02矿化技术可能是人类实现碳中和的必要路径。
+            　　风化作用是支撑宜居地球的重要方面。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体;风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的唯一来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用通过吸收和释放C0<sub>2</sub>，成为驱动气候变化、维持地球宜居气候的关键。风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化C0<sub>2</sub>消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化C0<sub>2</sub>矿化技术可能是人类实现碳中和的必要路径。
           </p>
 
           <p class=" animate__animated animate__bounceInUp">
@@ -176,7 +176,7 @@
               <div class="pl-5">
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">张 飞</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">张　飞</span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">王志兵</span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">于兆杰</span>
                 </div>
@@ -191,7 +191,7 @@
               <div class="pl-5">
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">汪 进</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">汪　进</span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨承帆</span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">李来峰</span>
                 </div>
@@ -207,8 +207,8 @@
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨一博</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">沈 俊</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">曹 程</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">沈　俊</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">曹　程</span>
                 </div>
               </div>
             </div>
@@ -227,6 +227,62 @@
                 </div>
               </div>
             </div>
+
+            <div
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              <div class="flex items-center mb-3">
+                <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
+                <h3 class="text-lg font-bold text-[#102693]">板块五 深时尺度风化研</h3>
+              </div>
+              <div class="pl-5">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">黄康俊</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">魏广祎</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">沈　俊</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">曹　程</span>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              <div class="flex items-center mb-3">
+                <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
+                <h3 class="text-lg font-bold text-[#102693]">板块六 风化与地球和行星系统演化</h3>
+              </div>
+              <div class="pl-5">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">…</span>
+
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              <div class="flex items-center mb-3">
+                <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
+                <h3 class="text-lg font-bold text-[#102693]">板块七 风化与灾害、资源、环境</h3>
+              </div>
+              <div class="pl-5">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">陈春梅</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">李子波</span>
+
+                </div>
+              </div>
+            </div>
+
+
+
+
+
+
+
+
           </div>
           <br>
 
