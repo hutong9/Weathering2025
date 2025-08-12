@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-12 16:44:44
+ * @LastEditTime: 2025-08-12 17:47:42
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -28,20 +28,19 @@
         <span class="mr-2">联系我们</span>
       </button>
       <div class="p-4">
-        <p><b>学术咨询：</b></p>
-        <p><b>韦刚健</b> 13660143620，<br>&emsp;&emsp;&emsp;&ensp;gjwei@gig.ac.cn</p>
-        <p class="text_con"><b>贺茂勇</b> 180 9118 8568，<br>&emsp;&emsp;&emsp;&ensp;hemy@ieecas.cn</p>
-        <p><b>陈开运</b> 135 7228 1864，<br>&emsp;&emsp;&emsp;&ensp;kychen@nwu.edu.cn</p>
+        <p><b>会务咨询：</b></p>
+        <p><b>张飞</b> 159 9127 2535，<br>&emsp;&emsp;&emsp;&ensp;zhangfei@ieecas.cn</p>
+
 
         <div class="divider"></div>
         <p><b>注册咨询：</b></p>
-        <p><b>王安琪</b> 133 4159 1706,<br>&emsp;&emsp;&emsp;&ensp;2577091349@qq.com</p>
+        <p><b>司绍诚</b> 185 1179 6774,<br>&emsp;&emsp;&emsp;&ensp; sisc@chd.edu.cn</p>
         <div class="divider"></div>
         <p><b>酒店咨询：</b></p>
         <p><b>郭丹洁</b> 181 9254 1626,<br>&emsp;&emsp;&emsp;&ensp;danjieguo@kailimice.cn</p>
         <div class="divider"></div>
         <p><b>招商咨询：</b></p>
-        <p><b>徐&emsp;阳</b> 155 2952 3916，<br>&emsp;&emsp;&emsp;&ensp;xuyang@ieecas.cn</p>
+        <p><b>杨&emsp;群</b> 15109234031，<br>&emsp;&emsp;&emsp;&ensp;yangqun@kailimice.cn</p>
 
       </div>
     </div>
