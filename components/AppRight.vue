@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-08 19:06:45
+ * @LastEditTime: 2025-08-12 16:44:44
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -18,7 +18,7 @@
         <a href="http://weathering.meeting666.com/UserCentral/Index/Login">在线投稿</a>
       </button>
       <button class="btn btn-block btn-outline btn-accent mb-4 text-2xl">
-        <a href="https://kaili.kailimice.cn/f/BeWyUE">酒店预订</a>
+        <a href="#">酒店预订</a>
       </button>
     </div>
     <!-- 快捷方式结束 -->
@@ -38,7 +38,7 @@
         <p><b>王安琪</b> 133 4159 1706,<br>&emsp;&emsp;&emsp;&ensp;2577091349@qq.com</p>
         <div class="divider"></div>
         <p><b>酒店咨询：</b></p>
-        <p><b>贾&emsp;佩</b> 153 9804 6729,<br>&emsp;&emsp;&emsp;&ensp;liwenzhu@kailimice.cn</p>
+        <p><b>郭丹洁</b> 181 9254 1626,<br>&emsp;&emsp;&emsp;&ensp;danjieguo@kailimice.cn</p>
         <div class="divider"></div>
         <p><b>招商咨询：</b></p>
         <p><b>徐&emsp;阳</b> 155 2952 3916，<br>&emsp;&emsp;&emsp;&ensp;xuyang@ieecas.cn</p>
