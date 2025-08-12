@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-08 13:28:31
+ * @LastEditTime: 2025-08-12 16:38:18
  * @FilePath: \Weathering2025\components\AppNews.vue
  * @Description: 
  * 
@@ -13,7 +13,7 @@
     <h2 class="text-3xl font-bold text-center  py-10 sm:pt-4">新闻资讯</h2>
     <div class="grid sm:grid-cols-2 gap-4">
       <div class="px-4 py-4"><img class=" object-cover object-center  md:mt-0 mt-12 hidden md:block"
-          src="/img/banner8x3.jpg" alt="step" /></div>
+          src="/img/banner8x3.jpg" alt="新闻资讯" /></div>
       <!-- 右侧开始 -->
       <div>
         <div class="max-w-2xl mx-auto mt-4">

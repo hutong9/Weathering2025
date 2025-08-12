@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-08 14:13:43
+ * @LastEditTime: 2025-08-12 16:30:40
  * @FilePath: \Weathering2025\components\AppCountdown.vue
  * @Description: 
  * 
@@ -63,7 +63,7 @@ export default {
         };
 
         onMounted(() => {
-            countdown('2025-10-18T00:08:30');
+            countdown('2025-11-08T00:08:30');
         });
 
         return {

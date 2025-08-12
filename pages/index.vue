@@ -31,7 +31,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">我要投稿</h2>
-                <p class="text-white">投稿截止日期：2024年5月24日</p>
+                <p class="text-white">投稿截止日期：2025年10月24日</p>
               </div>
             </div>
           </a>
@@ -47,7 +47,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">我要注册</h2>
-                <p class="text-white">现场报到日期：2025年10月17日</p>
+                <p class="text-white">现场报到日期：2025年11月07日</p>
               </div>
             </div>
           </a>
@@ -75,7 +75,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">会议日程</h2>
-                <p class="text-white">现场报到日期：2025年10月17日</p>
+                <p class="text-white">现场报到日期：2025年11月07日</p>
               </div>
             </div>
           </a>
