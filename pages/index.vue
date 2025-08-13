@@ -130,7 +130,7 @@
           </p>
 
           <p class="text-white animate__animated animate__bounceInUp">
-            　　由中国科学院地球环境研究所承办的2025第二届“大陆风化前沿学术讨论会”将于<b>2025年10月17-20日</b>在<b>陕西省延安市</b>举行，会议拟设置4个主题，12个专题，深度讨论大陆风化前沿科学问题。
+            　　由中国科学院地球环境研究所承办的2025第二届“大陆风化前沿学术讨论会”将于<b>2025年11月17-20日</b>在<b>陕西省延安市</b>举行，会议拟设置4个主题，12个专题，深度讨论大陆风化前沿科学问题。
           </p>
         </div>
       </div>
@@ -192,7 +192,7 @@
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">汪　进</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨承帆</span>
+
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">李来峰</span>
                 </div>
               </div>
@@ -201,15 +201,14 @@
               class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
-                <h3 class="text-lg font-bold text-[#102693]">板块三：风化与地球和行星系统演化</h3>
+                <h3 class="text-lg font-bold text-[#102693]">板块三：第四纪气候变化与大陆风化</h3>
               </div>
               <div class="pl-5">
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨一博</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">沈　俊</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">曹　程</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">张海伟</span>
                   <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">李　涛</span>
+
                 </div>
               </div>
             </div>
@@ -217,14 +216,14 @@
               class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
-                <h3 class="text-lg font-bold text-[#102693]">板块四：风化与灾害、资源、环境</h3>
+                <h3 class="text-lg font-bold text-[#102693]">板块四：新生代构造抬升与大陆风化</h3>
               </div>
               <div class="pl-5">
                 <div class="flex items-center gap-2 mb-2">
                   <span class="text-sm font-medium text-gray-600"><b>召集人：</b></span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">陈春梅</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">李子波</span>
-                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">东思嘉</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨一博</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">于兆杰</span>
+                  <span class="px-2 py-1 bg-gray-100 text-gray-700 text-sm rounded-full">杨承帆</span>
                 </div>
               </div>
             </div>
