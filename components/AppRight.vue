@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-12 17:47:42
+ * @LastEditTime: 2025-08-13 09:15:27
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -29,7 +29,7 @@
       </button>
       <div class="p-4">
         <p><b>会务咨询：</b></p>
-        <p><b>张飞</b> 159 9127 2535，<br>&emsp;&emsp;&emsp;&ensp;zhangfei@ieecas.cn</p>
+        <p><b>张&emsp;飞</b> 159 9127 2535，<br>&emsp;&emsp;&emsp;&ensp;zhangfei@ieecas.cn</p>
 
 
         <div class="divider"></div>
@@ -58,7 +58,7 @@
 
 
 
-        <p><b>2024年10月17日</b> 现场报到日期</p>
+        <p><b>2025年11月07日</b> 现场报到日期</p>
         <div class="divider"></div>
 
 
@@ -69,6 +69,11 @@
 
   </div>
 </template>
+
+<script setup>
+// 使用setup语法糖，确保组件正确渲染
+</script>
+
 <style scoped>
 p {
   text-align: left;

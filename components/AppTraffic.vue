@@ -52,3 +52,7 @@
 
   </div>
 </template>
+
+<script setup>
+// 使用setup语法糖，确保组件正确渲染
+</script>

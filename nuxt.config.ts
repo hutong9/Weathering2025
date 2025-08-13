@@ -11,4 +11,8 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: "page", mode: "out-in" },
   },
+  // 确保SSR正常工作
+  ssr: true,
+  // 添加组件自动导入配置
+  components: true,
 });
