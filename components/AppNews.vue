@@ -23,7 +23,7 @@
             <div class="flex flex-col gap-2 py-2">
               <a href="/邀请函.pdf">
                 <div class="inline-flex items-center">
-                  <p class="text-xl hover:text-blue-800">第一轮会议通知下载</p>
+                  <p class="text-xl hover:text-blue-800 pl-4">第一轮会议通知下载</p>
                   <img src="/img/new.gif" alt="新图标" class="ml-2 inline-block">
                   <img src="/img/hot.gif" alt="新图标" class="ml-2 inline-block">
                 </div>
