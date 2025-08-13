@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-13 16:24:51
+ * @LastEditTime: 2025-08-13 17:39:38
  * @FilePath: \Weathering2025\components\AppAbstract.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -47,7 +47,7 @@
 
     <div class="p-4 sm:p-10">
       <p>
-        <b>征稿范围：</b>第四届全国搅拌摩擦焊接与加工学术会议论文
+        <b>征稿范围：</b>2025第二届“大陆风化前沿学术讨论会” 会议论文
       </p>
       <p><b>投稿要求及注意事项：</b></p>
 
@@ -82,7 +82,7 @@
         <b>版权与修改：</b>依照《著作权法》，本刊有权对来稿进行文字修改、删节，对内容的修改需征得作者同意。稿件一经录用，所有版本版权即转让给本刊，作者不得再改投他刊。稿件刊出后，本刊将向作者收取发表费，并一次性付给作者印刷版、光盘版和网络版等版本的稿酬，同时赠送当期本刊1册。
       </p>
 
-     
+
 
       <br />
       <h3 class="text-center text-xl p-4"><b>《地球环境学报》简介</b></h3>

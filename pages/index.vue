@@ -62,7 +62,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">酒店预订</h2>
-                <p class="text-white">预订截止日期：2025年10月10日</p>
+                <p class="text-white">预订截止日期：2025年10月31日</p>
               </div>
             </div>
           </a>
@@ -75,7 +75,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">会议日程</h2>
-                <p class="text-white">现场报到日期：2025年11月07日</p>
+                <p class="text-white">公布日期：2025年11月03日</p>
               </div>
             </div>
           </a>
