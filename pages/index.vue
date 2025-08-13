@@ -130,7 +130,7 @@
           </p>
 
           <p class="text-white animate__animated animate__bounceInUp">
-            　　由中国科学院地球环境研究所承办的2025第二届“大陆风化前沿学术讨论会”将于<b>2025年11月7-10日</b>在<b>陕西省延安市</b>举行，会议拟设置4个主题，12个专题，深度讨论大陆风化前沿科学问题。
+            　　由中国科学院地球环境研究所承办的2025第二届“大陆风化前沿学术讨论会”将于<b>2025年11月7-10日</b>在<b>陕西省延安市</b>举行，会议拟设置7个主题，12个专题，深度讨论大陆风化前沿科学问题。
           </p>
         </div>
       </div>
@@ -317,7 +317,7 @@
           </p>
 
           <p class="text-white animate__animated animate__bounceInUp">
-            　　野外考察：陕西省延安市洛川国家野外站附近。
+            　　野外参观：陕西省延安市洛川黄土-古土壤剖面、苹果种植基地、国家野外站碳汇平台。
           </p>
 
           <p class="text-white animate__animated animate__bounceInUp">

@@ -1,3 +1,13 @@
+<!--
+ * @Author: HuTong 470048408@qq.com
+ * @Date: 2025-08-08 13:15:19
+ * @LastEditors: HuTong 470048408@qq.com
+ * @LastEditTime: 2025-08-13 15:51:13
+ * @FilePath: \Weathering2025\components\AppHotel.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 <template>
   <div class="col-span-9 shadow-lg">
     <div class="">
@@ -26,7 +36,7 @@
           </p>
 
           <p class=" mx-auto  leading-7">
-            <b>大床/标间价格：</b> 300元/晚
+            <b>大床/标间价格：</b> 350元/晚
           </p>
 
           <p class=" mx-auto leading-7">
