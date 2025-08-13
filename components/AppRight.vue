@@ -12,7 +12,7 @@
     <!-- 快捷方式开始 -->
     <div class="">
       <button class="btn btn-block btn-outline btn-primary mb-4 text-2xl">
-        <a href="/registered">参会注册</a>
+        <a href="http://weathering.meeting666.com/UserCentral/Index/Login">参会注册</a>
       </button>
       <button class="btn btn-block btn-outline btn-secondary mb-4 text-2xl">
         <a href="http://weathering.meeting666.com/UserCentral/Index/Login">在线投稿</a>
