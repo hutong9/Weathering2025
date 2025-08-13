@@ -23,13 +23,13 @@
             <div class="flex flex-col gap-2 py-2">
               <a href="/邀请函.pdf">
                 <div class="inline-flex items-center">
-                  <p class="text-xl hover:text-blue-800">【ISOTOPE 2024】参会邀请函下载</p>
+                  <p class="text-xl hover:text-blue-800">第一轮会议通知下载</p>
                   <img src="/img/new.gif" alt="新图标" class="ml-2 inline-block">
                   <img src="/img/hot.gif" alt="新图标" class="ml-2 inline-block">
                 </div>
               </a>
               <p class="text-gray-400 pl-4">
-                2024年6月01日
+                2025年8月13日
               </p>
             </div>
           </div>
