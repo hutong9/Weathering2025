@@ -316,171 +316,159 @@
 
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 1</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 1</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">人工加强风化碳封存</p>
+          <p class=" text-gray-700 font-bold mb-2">人工加强风化碳封存</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">刘承帅</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">蒋小伟</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘承帅</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">蒋小伟</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 2</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 2</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">海洋风化碳封存</p>
+          <p class=" text-gray-700 font-bold mb-2">海洋风化碳封存</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">郭庆军</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">章　程</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">郭庆军</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">章　程</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 3</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 3</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化研究指标方法</p>
+          <p class=" text-gray-700 font-bold mb-2">风化研究指标方法</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">李思亮</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">于兆杰</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">李思亮</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">于兆杰</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 4</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 4</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化与新生代气候</p>
+          <p class=" text-gray-700 font-bold mb-2">风化与新生代气候</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">聂军胜</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">杨江海</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">聂军胜</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">杨江海</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 5</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 5</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">岩溶/碳酸盐风化</p>
+          <p class=" text-gray-700 font-bold mb-2">岩溶/碳酸盐风化</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">沈　冰</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">崔行骞</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">沈　冰</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">崔行骞</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 6</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 6</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化与资源和环境</p>
+          <p class=" text-gray-700 font-bold mb-2">风化与资源和环境</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">闫俊华</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">杨一博</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">闫俊华</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">杨一博</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 7</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 7</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化Li同位素指标</p>
+          <p class=" text-gray-700 font-bold mb-2">风化Li同位素指标</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">赵志琦</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">张　飞</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">赵志琦</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">张　飞</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 8</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 8</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化机理新认识</p>
+          <p class=" text-gray-700 font-bold mb-2">风化机理新认识</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">汪　进</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">陈春梅</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">汪　进</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">陈春梅</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 9</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 9</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化与古环境</p>
+          <p class=" text-gray-700 font-bold mb-2">风化与古环境</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">刘永岗</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">王相力</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘永岗</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">王相力</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 10</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 10</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">碳酸盐风化</p>
+          <p class=" text-gray-700 font-bold mb-2">碳酸盐风化</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">李高军</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">闫宏彬</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">李高军</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">闫宏彬</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 11</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 11</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化研究非传统同位素指标</p>
+          <p class=" text-gray-700 font-bold mb-2">风化研究非传统同位素指标</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">陈天宇</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">黄康俊</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">陈天宇</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">黄康俊</span>
           </div>
         </div>
 
-        <div
-          class="bg-white rounded-lg shadow-md p-4 border-l-4 border-[#102693] hover:shadow-lg transition-all duration-300">
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
-            <h4 class="text-sm font-bold text-[#102693]">专题讨论 12</h4>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论 12</h4>
           </div>
-          <p class="text-sm text-gray-700 mb-2">风化研究同位素新方法</p>
+          <p class=" text-gray-700 font-bold mb-2">风化研究同位素新方法</p>
           <div class="flex items-center gap-1">
-            <span class="text-xs text-gray-500">主持人:</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">田云涛</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded-full">刘向军</span>
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">田云涛</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘向军</span>
           </div>
         </div>
       </div>
