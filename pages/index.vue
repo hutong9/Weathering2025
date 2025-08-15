@@ -127,7 +127,7 @@
 
 
         <div class="container mx-auto">
-          <p class="text-white animate__animated animate__bounceInUp">
+          <p class="text-white animate__animated animate__bounceInUp text-xl">
             　　“大陆风化前沿学术讨论会”由中国矿物岩石地球化学学会地表与生物地球化学专业委员会发起，旨在针对大陆风化领域的前沿科学问题开展深入讨论，推动多学科交叉地球系统科学研究，促进重大科学问题的凝练与攻关。该会议每两年举办一次，首届会议已由南京大学表生地球化学教育部重点实验室于2023年在海南保亭顺利举办，会议涵盖风化研究方法指标、风化机制多时-空尺度研究、风化与行星系统演化、风化与灾害、资源、环境等方面的50余个话题，来自国内外40余个科研机构的180余名代表参会。
           </p>
 
@@ -149,8 +149,8 @@
         <h2 class="text-3xl font-bold  text-center m-4 sm:m-10 animate__animated animate__bounceInUp">会议背景</h2>
         <div class="container mx-auto">
           <p class="animate__animated animate__bounceInUp">
-            　　大陆风化通过吸收和释放C0<sub>2</sub>
-            ，成为驱动气候变化、维持地球宜居气候的关键。风化作用在地球历史演化进程中起到重要作用。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体;风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的重要来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化C0<sub>2</sub>消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化C0<sub>2</sub>矿化技术可能是人类实现碳中和的必要路径。
+            　　大陆风化通过吸收和释放CO<sub>2</sub>
+            ，成为驱动气候变化、维持地球宜居气候的关键。风化作用在地球历史演化进程中起到重要作用。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体;风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的重要来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化CO<sub>2</sub>消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化CO<sub>2</sub>矿化技术可能是人类实现碳中和的必要路径。
           </p>
 
           <p class=" animate__animated animate__bounceInUp">
@@ -171,7 +171,7 @@
           </p>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块一：风化研究方法指标</h3>
@@ -186,7 +186,7 @@
               </div>
             </div>
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4  hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块二：风化机制现代过程研究</h3>
@@ -201,7 +201,7 @@
               </div>
             </div>
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4  hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块三：第四纪气候变化与大陆风化</h3>
@@ -216,7 +216,7 @@
               </div>
             </div>
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4  hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块四：新生代构造抬升与大陆风化</h3>
@@ -232,7 +232,7 @@
             </div>
 
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块五 深时尺度风化研</h3>
@@ -249,7 +249,7 @@
             </div>
 
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块六 风化与地球和行星系统演化</h3>
@@ -264,7 +264,7 @@
             </div>
 
             <div
-              class="bg-white rounded-xl shadow-lg p-4 border-l-4 border-[#102693] hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
+              class="bg-white rounded-xl shadow-lg p-4 border-l-4 hover:shadow-xl transition-all duration-300 animate__animated animate__fadeInUp">
               <div class="flex items-center mb-3">
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3"></div>
                 <h3 class="text-lg font-bold text-[#102693]">板块七 风化与灾害、资源、环境</h3>
