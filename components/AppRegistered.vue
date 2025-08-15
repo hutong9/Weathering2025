@@ -41,6 +41,8 @@
         </tbody>
       </table> -->
 
+      <p>按人员类型分为正式代表、学生代表(不含博后)、随行人员，收取不同的注册费用。</p>
+
       <div class="overflow-x-auto">
         <table class="table">
           <!-- head -->
