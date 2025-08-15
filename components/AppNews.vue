@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-12 16:38:18
+ * @LastEditTime: 2025-08-15 20:44:15
  * @FilePath: \Weathering2025\components\AppNews.vue
  * @Description: 
  * 
@@ -21,7 +21,7 @@
           <!-- 邀请函 -->
           <div class="flex gap-3 bg-white border border-gray-300 rounded-xl overflow-hidden items-center justify-start">
             <div class="flex flex-col gap-2 py-2">
-              <a href="/邀请函.pdf">
+              <a href="/1号通知.pdf">
                 <div class="inline-flex items-center">
                   <p class="text-xl hover:text-blue-800 pl-4">第一轮会议通知下载</p>
                   <img src="/img/new.gif" alt="新图标" class="ml-2 inline-block">
