@@ -501,7 +501,7 @@
 
 
       <div class="w-full flex flex-col items-center justify-center py-8">
-        <img src="https://picsum.photos/120/80" alt="专题更新中" class="mb-4 rounded shadow" />
+        <!-- <img src="https://picsum.photos/120/80" alt="专题更新中" class="mb-4 rounded shadow" /> -->
         <span class="text-lg text-[#102693] font-semibold">专题讨论持续更新中…</span>
       </div>
 
