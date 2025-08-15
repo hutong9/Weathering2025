@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-13 17:32:33
+ * @LastEditTime: 2025-08-15 18:59:04
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -35,6 +35,13 @@
         <div class="divider"></div>
         <p><b>注册咨询：</b></p>
         <p><b>司绍诚</b> 185 1179 6774,<br>&emsp;&emsp;&emsp;&ensp; sisc@chd.edu.cn</p>
+
+
+        <div class="divider"></div>
+        <p><b>交通咨询：</b></p>
+        <p><b>谢丹妮</b> 188 0010 9021,<br>&emsp;&emsp;&emsp;&ensp; dannixie@chd.edu.cn</p>
+
+
         <div class="divider"></div>
         <p><b>酒店咨询：</b></p>
         <p><b>郭丹洁</b> 181 9254 1626,<br>&emsp;&emsp;&emsp;&ensp;danjieguo@kailimice.cn</p>
