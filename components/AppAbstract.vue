@@ -101,7 +101,7 @@
       <p><b>编辑部联系方式：</b></p>
       <!-- <p><b>邮箱：</b>jee@ieecas.cn</p>
       <p><b>电话：</b>029-62336252</p> -->
-      <p><b>网址： </b><a href="dqhx@gig.ac.cn">dqhx@gig.ac.cn</a></p>
+      <p><b>邮箱： </b><a href="dqhx@gig.ac.cn">dqhx@gig.ac.cn</a></p>
 
 
 

@@ -97,9 +97,9 @@
       <p><b>开户行：</b>中国工商银行股份有限公司西安土门支行</p>
       <p><b>汇款单必须备注：</b><b style="color: red;">姓名+手机号+大陆风化</b></p>
       <p><b>温馨提示：</b></p>
-      <p style="color: red;">1）请务必填写附言，以免无法确认。附言格式：姓名+手机号+同位素，团队注册请注明：单位名称+手机号+同位素。</p>
+      <p style="color: red;">1）请务必填写附言，以免无法确认。附言格式：姓名+手机号+大陆风化，团队注册请注明：单位名称+手机号+大陆风化。</p>
       <p style="color: red;">2）网上报名注册必须上传汇款凭证和所需要发票的信息。</p>
-      <p style="color: red;">3）参会人已缴纳的会议注册费在 10 月10 日之后均不予退还，但可转让给他人作为会议注册费使用。</p>
+      <p style="color: red;">3）参会人已缴纳的会议注册费在11月01日之后均不予退还，但可转让给他人作为会议注册费使用。</p>
 
     </div>
 
@@ -109,6 +109,7 @@
       <a href="http://weathering.meeting666.com/UserCentral/Index/groupLogin"> <button
           class="btn btn-active bg-[#102693] btn-primary  text-white text-xl">团队注册</button></a>
     </div>
+    <br>
   </div>
 
 </template>

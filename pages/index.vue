@@ -8,7 +8,7 @@
       <app-countdown />
     </div>
 
-    <div class="container mx-auto sm:py-10 pb-4 animate__animated animate__bounceInUp">
+    <div class="container mx-auto sm:py-4 pb-4 animate__animated animate__bounceInUp">
       <div class="md:flex gap-4">
 
         <div class="grid grid-cols-2 sm:grid-cols-4 md:flex gap-0 sm:gap-4 container mx-auto justify-center ">
@@ -24,14 +24,14 @@
           </a> -->
 
           <a href="/abstract">
-            <div class="card md:w-66 md:h-40 m-2 md:m-0 relative" :style="{
+            <div class="card md:w-72 md:h-40 m-2 md:m-0 relative" :style="{
               backgroundImage: `url(${backgroundImageUrl2})`, backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center'
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">我要投稿</h2>
-                <p class="text-white">投稿截止日期：2025年10月24日</p>
+                <p class="text-white">截止日期：2025年10月24日</p>
               </div>
             </div>
           </a>
@@ -40,14 +40,14 @@
 
 
           <a href="/registered">
-            <div class="card md:w-66 md:h-40 m-2 md:m-0 relative " :style="{
+            <div class="card md:w-72 md:h-40 m-2 md:m-0 relative " :style="{
               backgroundImage: `url(${backgroundImageUrl})`, backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center'
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">我要注册</h2>
-                <p class="text-white">现场报到日期：2025年11月07日</p>
+                <p class="text-white">报到日期：2025年11月07日</p>
               </div>
             </div>
           </a>
@@ -55,20 +55,20 @@
 
 
           <a href="/hotel">
-            <div class="card md:w-66 md:h-40 m-2 md:m-0 relative" :style="{
+            <div class="card md:w-72 md:h-40 m-2 md:m-0 relative" :style="{
               backgroundImage: `url(${backgroundImageUrl3})`, backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center'
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">酒店预订</h2>
-                <p class="text-white">预订截止日期：2025年10月31日</p>
+                <p class="text-white">截止日期：2025年10月31日</p>
               </div>
             </div>
           </a>
 
           <a href="/schedule">
-            <div class="card md:w-66 md:h-40 m-2 md:m-0 relative" :style="{
+            <div class="card md:w-72 md:h-40 m-2 md:m-0 relative" :style="{
               backgroundImage: `url(${backgroundImageUrl4})`, backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
               backgroundPosition: 'center'
@@ -128,11 +128,11 @@
 
         <div class="container mx-auto">
           <p class="text-white animate__animated animate__bounceInUp text-2xl">
-            　　“大陆风化前沿学术讨论会”由中国矿物岩石地球化学学会地表与生物地球化学专业委员会发起，旨在针对大陆风化领域的前沿科学问题开展深入讨论，推动多学科交叉地球系统科学研究，促进重大科学问题的凝练与攻关。该会议每两年举办一次，首届会议已由南京大学表生地球化学教育部重点实验室于2023年在海南保亭顺利举办，会议涵盖风化研究方法指标、风化机制多时-空尺度研究、风化与行星系统演化、风化与灾害、资源、环境等方面的50余个话题，来自国内外40余个科研机构的180余名代表参会。
+            　　“大陆风化前沿学术讨论会”由中国矿物岩石地球化学学会地表与生物地球化学专业委员会发起，旨在针对大陆风化领域的前沿科学问题开展深入讨论，推动多学科交叉地球系统科学研究，促进重大科学问题的凝练与攻关。该会议每两年举办一次，首届会议已由南京大学表生地球化学教育部重点实验室于2023年在海南保亭成功举办。会议涵盖了风化研究方法指标、风化机制多时-空尺度研究、风化与行星系统演化、风化与灾害、资源、环境等方面的50余个话题，来自国内外40余个科研机构的180余名代表参会。
           </p>
 
           <p class="text-white animate__animated animate__bounceInUp text-2xl">
-            　　由中国科学院地球环境研究所承办的2025第二届“大陆风化前沿学术讨论会”将于<b>2025年11月7-10日</b>在<b>陕西省延安市</b>举行，会议拟设置7个主题，12个专题，深度讨论大陆风化前沿科学问题。
+            　　经由会议决定，由中国科学院地球环境研究所组织召开第二届“大陆风化前沿学术讨论会”，将于<b>2025年11月7-10日</b>在<b>陕西省延安市</b>举行，深度讨论大陆风化前沿科学问题。
           </p>
         </div>
       </div>
@@ -149,8 +149,7 @@
         <h2 class="text-3xl font-bold  text-center m-4 sm:m-10 animate__animated animate__bounceInUp">会议背景</h2>
         <div class="container mx-auto">
           <p class="animate__animated animate__bounceInUp">
-            　　大陆风化通过吸收和释放CO<sub>2</sub>
-            ，成为驱动气候变化、维持地球宜居气候的关键。风化作用在地球历史演化进程中起到重要作用。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体;风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的重要来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化CO<sub>2</sub>消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化CO<sub>2</sub>矿化技术可能是人类实现碳中和的必要路径。
+            　　大陆风化通过吸收和释放CO<sub>2</sub>，在维持地球宜居气候和调控地球历史演化中起到重要作用。富挥发分的风化产物影响俯冲和岩浆作用等固体地球过程，在大陆地壳的生长和演化过程中发挥了重要作用，而大陆地壳不但支撑了陆生生态系统，大陆风化还提供了土壤和松散沉积物，成为众多生命的载体；风化作用还是影响水圈化学组成最重要的要素之一，进而影响了生命演进过程中的生化策略。因此，风化是海陆生态系统多种关键营养元素的重要来源，进而控制有机碳埋藏，影响大气氧气的积累，为动物演化提供先决条件;更重要的是，风化作用还与当前人类的生存直接相关。驱动人类出现的新生代变冷气候背景可能与风化CO<sub>2</sub>消耗有关；风化作用通过破坏造岩矿物而释放元素,深刻影响地球元素循环，参与人类赖以生存的诸多内生和表生矿产资源的形成，并与土壤和水体中众多金属污染密切相关;风化作用是孕育滑坡泥石流自然灾害前提条件之一,并且影响人造工程体的使用寿命与遗存。在全球变暖背景下，人工加强风化CO<sub>2</sub>矿化技术可能是人类实现碳中和的必要路径。
           </p>
 
           <p class=" animate__animated animate__bounceInUp">
@@ -185,9 +184,13 @@
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">张　飞</span>
                   <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李　超</span>
+                  <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王志兵</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">于兆杰</span>
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">钟　君</span>
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
                 </div>
               </div>
             </div>
@@ -207,7 +210,11 @@
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">汪　进</span>
 
                   <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">刘文景</span>
+                  <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李来峰</span>
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
                 </div>
               </div>
             </div>
@@ -226,8 +233,11 @@
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">张海伟</span>
                   <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王欢业</span>
+                  <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李　涛</span>
-
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
                 </div>
               </div>
             </div>
@@ -249,6 +259,8 @@
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">于兆杰</span>
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">杨承帆</span>
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
                 </div>
               </div>
             </div>
@@ -259,7 +271,7 @@
                 <div class="w-2 h-2 bg-[#102693] rounded-full mr-3 group-hover:bg-white transition-colors duration-300">
                 </div>
                 <h3 class="text-lg font-bold text-[#102693] group-hover:text-white transition-colors duration-300">板块五
-                  深时尺度风化研</h3>
+                  深时尺度风化研究</h3>
               </div>
               <div class="pl-5">
                 <div class="flex items-center gap-2 mb-2">
@@ -267,8 +279,7 @@
                     class=" font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">黄康俊</span>
-                  <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">魏广祎</span>
+
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">沈　俊</span>
                   <span
@@ -290,6 +301,12 @@
                   <span
                     class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
                   <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">田恒次</span>
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王　枫</span>
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">魏广祎</span>
+                  <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
 
                 </div>
@@ -310,9 +327,13 @@
                     class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">陈春梅</span>
+
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">卢　银</span>
                   <span
                     class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李子波</span>
-
+                  <span
+                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
                 </div>
               </div>
             </div>
@@ -328,8 +349,8 @@
           <br>
 
           <p class=" animate__animated animate__bounceInUp">本次会议将从以上议题中评选出当前大陆风化领域的10大重点科学问题，并在专辑中给予优先介绍。</p>
-          <!-- <p class=" animate__animated animate__bounceInUp">如对专辑投稿有兴趣，请与张飞老师联系。</p>
-          <p class=" animate__animated animate__bounceInUp"><b>电话：</b>15991272535，<b>邮箱：</b>zhangfei@ieecas.cn</p> -->
+          <p class=" animate__animated animate__bounceInUp">如对专辑投稿有兴趣，请与张飞老师联系。</p>
+          <p class=" animate__animated animate__bounceInUp"><b>电话：</b>15991272535，<b>邮箱：</b>zhangfei@ieecas.cn</p>
 
 
 
@@ -388,6 +409,17 @@
   </div>
 </template>
 
+<script setup>
+
+import { ref } from 'vue';
+
+const backgroundImageUrl = ref('/img/002.png');
+const backgroundImageUrl2 = ref('/img/003.png');
+const backgroundImageUrl3 = ref('/img/004.png');
+const backgroundImageUrl4 = ref('/img/005.png');
+
+</script>
+
 <style scoped>
 p {
   font-size: 16px;
@@ -410,37 +442,21 @@ p {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
-  /* padding: 5rem 1rem; */
-  /* padding: var(--padding-card, 2rem); */
   gap: 0rem;
-
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100%;
   text-align: center;
 }
 
-@media (min-width: 768px) .md\:h-40 {
-  height: 0;
+.card {
+  min-height: 10rem;
+  background-color: #f3f4f6;
 }
 
-
-
-.container {
-  width: 100%;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+@media (min-width: 768px) {
+  .md\:h-40 {
+    height: 10rem;
+  }
 }
 </style>
-
-<script setup>
-
-import { ref } from 'vue';
-
-const backgroundImageUrl = ref('/img/002.png');
-const backgroundImageUrl2 = ref('/img/003.png');
-const backgroundImageUrl3 = ref('/img/004.png');
-const backgroundImageUrl4 = ref('/img/005.png');
-
-</script>

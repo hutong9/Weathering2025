@@ -471,11 +471,39 @@
             <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘向军</span>
           </div>
         </div>
+
+
+
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
+          <div class="flex items-center mb-2">
+            <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论13：</h4>
+          </div>
+          <p class=" text-gray-700 font-bold mb-2">有机碳风化研究进展</p>
+          <div class="flex items-center gap-1">
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">罗根明</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘向军</span>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
       </div>
 
 
 
-
+      <div class="w-full flex flex-col items-center justify-center py-8">
+        <img src="https://picsum.photos/120/80" alt="专题更新中" class="mb-4 rounded shadow" />
+        <span class="text-lg text-[#102693] font-semibold">专题讨论持续更新中…</span>
+      </div>
 
 
 

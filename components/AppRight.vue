@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-15 18:59:04
+ * @LastEditTime: 2025-08-15 19:35:51
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -57,9 +57,9 @@
         <span class="mr-2">重要日期</span>
       </button>
       <div class="p-4">
-        <p><b>2025年9月18日</b> 投稿截止日期</p>
+        <p><b>2025年10月24日</b> 投稿截止日期</p>
         <div class="divider"></div>
-        <p><b>2025年9月30日</b> 评审结果公布日期</p>
+        <p><b>2025年10月30日</b> 评审结果公布日期</p>
         <div class="divider"></div>
 
 
