@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-13 15:51:13
+ * @LastEditTime: 2025-08-15 20:08:27
  * @FilePath: \Weathering2025\components\AppHotel.vue
  * @Description: 
  * 
@@ -31,12 +31,14 @@
       <div class="container px-5 py-10 mx-auto">
         <div class="flex flex-col text-center w-full mb-10">
 
-          <p class=" mx-auto leading-7">
+          <p class="text-2xl mx-auto leading-7 mb-8">
             <b>协议酒店：</b> 延安万达锦华酒店（主会场）
           </p>
 
-          <p class=" mx-auto  leading-7">
-            <b>大床/标间价格：</b> 350元/晚
+          <img src="/img/hotel.png" alt="">
+
+          <p class="mt-4 mx-auto  leading-7">
+            <b>大床/标间价格：</b> 300元/晚
           </p>
 
           <p class=" mx-auto leading-7">
@@ -44,7 +46,7 @@
           </p>
 
           <div class="text-center p-4">
-            <button class="btn btn-secondary text-xl">
+            <button class="btn btn-active bg-[#102693] btn-primary  text-white text-xl">
               <a href="https://kaili.kailimice.cn/f/BeWyUE">酒店预订</a>
             </button>
           </div>
