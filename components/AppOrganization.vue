@@ -80,6 +80,8 @@
         <span>刘向军、</span>
         <span>刘永岗、</span>
         <span>刘再华、</span>
+        <span>刘金高、</span>
+        <span>罗根明、</span>
         <span>鹿化煜、</span>
         <span>聂军胜、</span>
         <span>潘保田、</span>
