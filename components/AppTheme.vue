@@ -489,6 +489,19 @@
         </div>
 
 
+        <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
+          <div class="flex items-center mb-2">
+            <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
+            <h4 class=" font-bold text-lg text-[#102693]">专题讨论14：</h4>
+          </div>
+          <p class=" text-gray-700 font-bold mb-2">造山带物理剥蚀研究进展与新方法</p>
+          <div class="flex items-center gap-1">
+            <span class=" text-gray-500"><b>主持人:</b></span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">田云涛</span>
+
+          </div>
+        </div>
+
 
 
 
