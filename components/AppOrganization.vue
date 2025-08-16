@@ -116,7 +116,7 @@
         <span>朱祥坤</span>
       </p>
 
-      <p class="text_cont"><b>组织委员会：</b></p>
+      <!-- <p class="text_cont"><b>组织委员会：</b></p>
 
       <p class="text_cont">
         <span class="bold_1">
@@ -146,7 +146,7 @@
         <span>杨潇潇、</span>
         <span>张俊文</span>
 
-      </p>
+      </p> -->
 
 
     </div>

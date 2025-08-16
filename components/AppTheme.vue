@@ -483,7 +483,7 @@
           <div class="flex items-center gap-1">
             <span class=" text-gray-500"><b>主持人:</b></span>
             <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">罗根明</span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘向军</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">王欢业</span>
           </div>
         </div>
 
