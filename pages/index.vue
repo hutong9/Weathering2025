@@ -344,8 +344,9 @@
 
 
 
-
           </div>
+          <br>
+          <p class=" animate__animated animate__bounceInUp">板块讨论持续更新中……</p>
           <br>
 
           <p class=" animate__animated animate__bounceInUp">本次会议将从以上议题中评选出当前大陆风化领域的10大重点科学问题，并在专辑中给予优先介绍。</p>
