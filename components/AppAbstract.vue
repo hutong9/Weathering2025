@@ -31,7 +31,7 @@
 
       <div class="text-center p-4">
         <button class="btn btn-primary m-4 text-xl">
-          <a href="/_摘要模板.docx" download="/_摘要模板.docx">模板下载</a></button><br />
+          <a href="/摘要模板.docx" download="/摘要模板.docx">模板下载</a></button><br />
         <button class="btn btn-secondary text-xl">
           <a href="http://weathering.meeting666.com/UserCentral/Index/Login">摘要提交</a>
         </button>
