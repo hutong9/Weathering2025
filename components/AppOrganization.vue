@@ -32,6 +32,7 @@
         </span>
       </p>
       <p class="text_cont">
+        <span>安芷生、</span>
         <span>陈&emsp;骏、</span>
 
         <span>方小敏、</span>
@@ -42,6 +43,7 @@
         <span>王焰新、</span>
         <span>谢树成、</span>
         <span>袁道先、</span>
+        <span>周卫健、</span>
         <span>郑绵平</span>
       </p>
 
@@ -83,6 +85,7 @@
         <span>潘保田、</span>
         <span>沈&emsp;冰、</span>
         <span>沈延安、</span>
+        <span>孙有斌、</span>
         <span>宋照亮、</span>
         <span>田云涛、</span>
         <span>万世明、</span>
@@ -90,11 +93,13 @@
         <span>王金华、</span>
         <span>王先彦、</span>
         <span>王相力、</span>
+        <span>王云强、</span>
         <span>韦刚健、</span>
         <span>肖&emsp;军、</span>
         <span>谢先军、</span>
         <span>徐&emsp;胜、</span>
         <span>徐志方、</span>
+        <span>晏&emsp;宏、</span>
         <span>闫宏彬、</span>
         <span>闫俊华、</span>
         <span>杨江海、</span>
