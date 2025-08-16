@@ -178,19 +178,19 @@
                   板块一：风化研究方法指标</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">张　飞</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">张　飞</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李　超</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">李　超</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王志兵</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">王志兵</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">钟　君</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">钟　君</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
                 </div>
               </div>
             </div>
@@ -203,18 +203,18 @@
                   板块二：风化机制现代过程研究</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">汪　进</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">汪　进</span>
 
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">刘文景</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">刘文景</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李来峰</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">李来峰</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
                 </div>
               </div>
             </div>
@@ -227,17 +227,17 @@
                   板块三：第四纪气候变化与大陆风化</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">张海伟</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">张海伟</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王欢业</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">王欢业</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李　涛</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">李　涛</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
                 </div>
               </div>
             </div>
@@ -250,17 +250,17 @@
                   板块四：新生代构造抬升与大陆风化</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">杨一博</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">杨一博</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">于兆杰</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">于兆杰</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">杨承帆</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">杨承帆</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
                 </div>
               </div>
             </div>
@@ -274,16 +274,16 @@
                   深时尺度风化研究</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class=" font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">黄康俊</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">黄康俊</span>
 
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">沈　俊</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">沈　俊</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">曹　程</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">曹　程</span>
                 </div>
               </div>
             </div>
@@ -297,17 +297,17 @@
                   风化与地球和行星系统演化</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">田恒次</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">田恒次</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">王　枫</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">王　枫</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">魏广祎</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">魏广祎</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
 
                 </div>
               </div>
@@ -322,18 +322,18 @@
                   风化与灾害、资源、环境</h3>
               </div>
               <div class="pl-5">
-                <div class="flex items-center gap-2 mb-2">
+                <div class="flex items-center gap-1 mb-2 flex-wrap">
                   <span
-                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300"><b>召集人：</b></span>
+                    class="font-medium text-gray-600 group-hover:text-white transition-colors duration-300 text-sm"><b>召集人：</b></span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">陈春梅</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">陈春梅</span>
 
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">卢　银</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">卢　银</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">李子波</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">李子波</span>
                   <span
-                    class="px-2 py-1 bg-gray-100 text-gray-700 rounded-full group-hover:bg-white group-hover:text-[#102693] transition-all duration-300">…</span>
+                    class="px-1.5 py-0.5 bg-gray-100 text-gray-700 rounded-md group-hover:bg-white group-hover:text-[#102693] transition-all duration-300 text-sm">…</span>
                 </div>
               </div>
             </div>
