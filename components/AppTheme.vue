@@ -468,8 +468,8 @@
           <p class=" text-gray-700 font-bold mb-2">风化研究同位素新方法</p>
           <div class="flex items-center gap-1">
             <span class=" text-gray-500"><b>主持人:</b></span>
-            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">田云涛</span>
             <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">刘向军</span>
+            <span class="px-2 py-1 bg-gray-100 text-gray-700  rounded-full">李　涛</span>
           </div>
         </div>
 
