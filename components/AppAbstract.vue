@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-13 17:39:38
+ * @LastEditTime: 2025-08-16 11:10:43
  * @FilePath: \Weathering2025\components\AppAbstract.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -31,7 +31,7 @@
 
       <div class="text-center p-4">
         <button class="btn btn-primary m-4 text-xl">
-          <a href="/摘要模板.docx" download="/摘要模板.docx">模板下载</a></button><br />
+          <a href="/_摘要模板.docx" download="/_摘要模板.docx">模板下载</a></button><br />
         <button class="btn btn-secondary text-xl">
           <a href="http://weathering.meeting666.com/UserCentral/Index/Login">摘要提交</a>
         </button>
