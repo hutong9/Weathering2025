@@ -315,7 +315,7 @@
 
 
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 mt-6">
         <div class="bg-white rounded-lg shadow-md p-4 border-l-4  hover:shadow-lg transition-all duration-300">
           <div class="flex items-center mb-2">
             <div class="w-2 h-2 bg-[#102693] rounded-full mr-2"></div>
@@ -517,6 +517,8 @@
       <div class="w-full flex flex-col items-center justify-center py-8">
         <!-- <img src="https://picsum.photos/120/80" alt="专题更新中" class="mb-4 rounded shadow" /> -->
         <span class="text-lg text-[#102693] font-semibold">专题讨论持续更新中…</span>
+        <span class="text-lg text-[#102693] font-semibold">请大家把板块和专题题目，召集人名字，联系方式电话和邮箱，发到张飞老师邮箱:
+          zhangfei@ieecas.cn</span>
       </div>
 
 
