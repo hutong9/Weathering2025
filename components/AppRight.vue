@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-15 19:35:51
+ * @LastEditTime: 2025-08-27 15:41:58
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -18,7 +18,7 @@
         <a href="http://weathering.meeting666.com/UserCentral/Index/Login">在线投稿</a>
       </button>
       <button class="btn btn-block btn-outline btn-accent mb-4 text-2xl">
-        <a href="#">酒店预订</a>
+        <a href="https://conf.kailimice.cn/f/cfXUjW">酒店预订</a>
       </button>
     </div>
     <!-- 快捷方式结束 -->

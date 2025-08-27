@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-16 10:46:12
+ * @LastEditTime: 2025-08-27 15:41:21
  * @FilePath: \Weathering2025\components\AppHotel.vue
  * @Description: 
  * 
@@ -47,7 +47,7 @@
 
           <div class="text-center p-4">
             <button class="btn btn-active bg-[#102693] btn-primary  text-white text-xl">
-              <a href="#">酒店预订</a>
+              <a href="https://conf.kailimice.cn/f/cfXUjW">酒店预订</a>
             </button>
           </div>
 
