@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-27 15:41:58
+ * @LastEditTime: 2025-10-14 15:57:40
  * @FilePath: \Weathering2025\components\AppRight.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -30,6 +30,7 @@
       <div class="p-4">
         <p><b>会务咨询：</b></p>
         <p><b>张&emsp;飞</b> 159 9127 2535，<br>&emsp;&emsp;&emsp;&ensp;zhangfei@ieecas.cn</p>
+        <p><b>汪&emsp;进</b> 132 5998 1015，<br>&emsp;&emsp;&emsp;&ensp;wangjin09@ieecas.cn</p>
 
 
         <div class="divider"></div>

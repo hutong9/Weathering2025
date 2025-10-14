@@ -2,7 +2,7 @@
  * @Author: hutong9 470048408@qq.com
  * @Date: 2024-03-14 11:04:17
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-08-16 11:10:43
+ * @LastEditTime: 2025-10-14 15:52:41
  * @FilePath: \Weathering2025\components\AppAbstract.vue
  * @Description: 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
@@ -10,11 +10,43 @@
 <template>
   <div class="col-span-9 shadow-lg">
     <div class="">
-      <!-- 主体左侧 -->
-      <button class="flex items-center justify-start btn btn-block bg-[#102693] text-white text-2xl hover:bg-blue-600">
+
+
+      <div class="">
+        <!-- 主体左侧 -->
+        <button
+          class="flex items-center justify-start btn btn-block bg-[#102693] text-white text-2xl hover:bg-blue-600">
+          <span class="mr-2">报告征集</span>
+        </button>
+      </div>
+
+      <div class="p-4 sm:p-10">
+        <p>
+          <b>要求：</b>提交报告讨论的主题，并注明报告对应的板块和专题号等相关信息。
+        </p>
+
+        <br />
+
+        <div class="text-center p-4">
+          <button class="btn btn-primary text-xl">
+            <a href="https://conf.kailimice.cn/f/yW1etN">报告提交</a>
+          </button>
+        </div>
+      </div>
+
+    </div>
+
+
+    <!-- 主体左侧 -->
+    <!-- <button class="flex items-center justify-start btn btn-block bg-[#102693] text-white text-2xl hover:bg-blue-600">
         <span class="mr-2">摘要征集</span>
       </button>
-    </div>
+    </div> -->
+
+
+
+
+    <!-- 
     <div class="p-4 sm:p-10">
       <p>
         <b>要求：</b>正文 5 号宋体，1.5 倍行距，不可插入图片，如有必要可插入一个表格，正文（包括表在内）不超过 1000 字。
@@ -36,7 +68,7 @@
           <a href="http://weathering.meeting666.com/UserCentral/Index/Login">摘要提交</a>
         </button>
       </div>
-    </div>
+    </div> -->
 
     <div class="">
       <!-- 主体左侧 -->
