@@ -30,7 +30,7 @@
               backgroundPosition: 'center'
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
-                <h2 class="card-title text-white">我要投稿</h2>
+                <h2 class="card-title text-white">我要报告</h2>
                 <p class="text-white">截止日期：2025年10月24日</p>
               </div>
             </div>

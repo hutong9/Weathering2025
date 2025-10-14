@@ -15,7 +15,7 @@
         <a href="http://weathering.meeting666.com/UserCentral/Index/Login">参会注册</a>
       </button>
       <button class="btn btn-block btn-outline btn-secondary mb-4 text-2xl">
-        <a href="http://weathering.meeting666.com/UserCentral/Index/Login">在线投稿</a>
+        <a href="https://conf.kailimice.cn/f/yW1etN">报告提交</a>
       </button>
       <button class="btn btn-block btn-outline btn-accent mb-4 text-2xl">
         <a href="https://conf.kailimice.cn/f/cfXUjW">酒店预订</a>
