@@ -48,6 +48,41 @@
                 </div>
               </div>
             </div>
+
+
+            <!-- <div class="mb-5 pb-4 border-b-2 border-blue-100">
+              <div class="flex items-start gap-2">
+                <div class="flex items-center gap-2 mt-1">
+                  <svg class="w-5 h-5 text-[#102693]" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path>
+                    <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path>
+                  </svg>
+                  <span class="text-gray-700 font-bold text-base">联系方式：</span>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                  <span class="px-3 py-1 bg-blue-50 text-gray-800  rounded-lg border border-blue-200 font-medium">张飞
+                    zhangfei@ieecas.cn</span>
+
+                </div>
+              </div>
+            </div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <!-- 专题讨论列表 -->
             <div class="space-y-3">
               <div
@@ -70,7 +105,18 @@
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">王志兵</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">于兆杰</span>
+
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">wangzhibing@gig.ac.cn</span>
+                    </div>
+
+
+
+
                   </div>
                 </div>
               </div>
@@ -94,6 +140,11 @@
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">孙贺</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">张俊文</span>
+                    </div>
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">sunhe@hfut.edu.cn</span>
                     </div>
                   </div>
                 </div>
@@ -119,6 +170,12 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">吴非</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">wenshuai0615@gmail.com</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -141,6 +198,15 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">杨海清</span>
                     </div>
+
+
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">xbliu@njust.edu.cn</span>
+                    </div>
+
                   </div>
                 </div>
               </div>
@@ -184,6 +250,8 @@
                   <span
                     class="px-3 py-1 bg-blue-50 text-gray-800  rounded-lg border border-blue-200 font-medium">李来峰</span>
                 </div>
+
+
               </div>
             </div>
             <div class="space-y-3">
@@ -207,6 +275,12 @@
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">李来峰</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">李子波</span>
+                    </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">liuwenjing@mail.iggcas.ac.cn</span>
                     </div>
                   </div>
                 </div>
@@ -379,6 +453,12 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">马小林</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">wanghy@ieecas.cn</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -424,6 +504,7 @@
                   <span
                     class="px-3 py-1 bg-blue-50 text-gray-800  rounded-lg border border-blue-200 font-medium">李乐</span>
                 </div>
+              
               </div>
             </div>
             <div class="space-y-3"></div>
@@ -448,6 +529,12 @@
                     <span
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">聂军胜</span>
                   </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                  <span class=" text-gray-500 font-medium">联系方式：</span>
+                  <span
+                    class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">yangyibo@itpcas.ac.cn</span>
+                </div>
                 </div>
               </div>
             </div>
@@ -469,6 +556,12 @@
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">于兆杰</span>
                     <span
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">罗敏</span>
+                  </div>
+
+                  <div class="flex items-center flex-wrap gap-2">
+                    <span class=" text-gray-500 font-medium">联系方式：</span>
+                    <span
+                      class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">cfyang@tongji.edu.cn</span>
                   </div>
                 </div>
               </div>
@@ -492,6 +585,13 @@
                     <span
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">曾思博</span>
                   </div>
+
+                  <div class="flex items-center flex-wrap gap-2">
+                    <span class=" text-gray-500 font-medium">联系方式：</span>
+                    <span
+                      class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">shileili@nju.edu.cn</span>
+                  </div>
+
                 </div>
               </div>
             </div>
@@ -516,6 +616,13 @@
                     <span
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">邓凯</span>
                   </div>
+
+                  <div class="flex items-center flex-wrap gap-2">
+                    <span class=" text-gray-500 font-medium">联系方式：</span>
+                    <span
+                      class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">lile@qdio.ac.cn</span>
+                  </div>
+
                 </div>
               </div>
             </div>
@@ -577,6 +684,13 @@
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">黄康俊</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">马龙</span>
+                    </div>
+
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">hkj@nwu.edu.cn</span>
                     </div>
                   </div>
                 </div>
@@ -749,6 +863,14 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">田恒次</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">liyang@mail.gyig.ac.cn</span>
+                    </div>
+
+
                   </div>
                 </div>
               </div>
@@ -771,6 +893,14 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">邢恺晨</span>
                     </div>
+
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">jlu_wangfeng@jlu.edu.cn</span>
+                    </div>
+
                   </div>
                 </div>
               </div>
@@ -791,6 +921,13 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">李子波</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">guangyiwei@nju.edu.cn</span>
+                    </div>
+
                   </div>
                 </div>
               </div>
@@ -832,6 +969,10 @@
                   <span
                     class="px-3 py-1 bg-blue-50 text-gray-800  rounded-lg border border-blue-200 font-medium">侯可军</span>
                 </div>
+
+
+
+
               </div>
             </div>
             <div class="space-y-3">
@@ -853,6 +994,12 @@
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">闫俊华</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">韩文霞</span>
+                    </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">wenxia_han@163.com</span>
                     </div>
                   </div>
                 </div>
@@ -878,6 +1025,15 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">唐亚明</span>
                     </div>
+
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">huiping@ies.ac.cn</span>
+                    </div>
+
+
                   </div>
                 </div>
               </div>
@@ -902,6 +1058,13 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">贺茂勇</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">wangchunlian312@163.com</span>
+                    </div>
+
                   </div>
                 </div>
               </div>
@@ -964,6 +1127,13 @@
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">赵良</span>
                     </div>
+
+                    <div class="flex items-center flex-wrap gap-2">
+                      <span class=" text-gray-500 font-medium">联系方式：</span>
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">ligaojun@nju.edu.cn</span>
+                    </div>
+
                   </div>
                 </div>
               </div>
