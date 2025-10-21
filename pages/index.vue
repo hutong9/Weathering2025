@@ -186,28 +186,28 @@
     <!-- 会议形式 -->
 
     <!-- 会议形式开始 -->
-    <div class="bg-[#102693] ">
+    <div class=" ">
       <div class="container mx-auto md:py-10 w-full p-6">
-        <h2 class="text-3xl font-bold text-white text-center m-4 sm:m-10 animate__animated animate__bounceInUp">会议形式
+        <h2 class="text-3xl font-bold  text-center m-4 sm:m-10 animate__animated animate__bounceInUp">会议形式
         </h2>
         <div class="container mx-auto">
-          <p class="text-white animate__animated animate__bounceInUp">
+          <p class=" animate__animated animate__bounceInUp">
             <b>本次会议包括学术讨论和野外考察。</b>
           </p>
 
-          <p class="text-white animate__animated animate__bounceInUp">
-            ★ 学术讨论不鼓励已有成果展示，报告人做不超过十分钟的背景介绍，着重介绍拟讨论前沿问题的重要性、阐述科学问题的本质、面临的研究难点和未来可能的解决方案。
+          <p class=" animate__animated animate__bounceInUp">
+            ★ <b>学术讨论不鼓励已有成果展示，报告人做不超过十分钟的背景介绍，着重介绍拟讨论前沿问题的重要性、阐述科学问题的本质、面临的研究难点和未来可能的解决方案。</b>
           </p>
 
-          <p class="text-white animate__animated animate__bounceInUp">
+          <p class="  animate__animated animate__bounceInUp">
             ★ 本次会议提倡学术民主，鼓励不同学术观点的碰撞和交流，希望与会者在宽松、活泼、和谐的研讨氛围中畅所欲言、各抒己见。
           </p>
 
-          <p class="text-white animate__animated animate__bounceInUp">
+          <p class=" animate__animated animate__bounceInUp">
             野外考察:陕西省延安市洛川黄土-古土壤剖面、苹果种植基地、国家野外站碳汇平台。
           </p>
 
-          <p class="text-white animate__animated animate__bounceInUp">
+          <p class=" animate__animated animate__bounceInUp">
             本次会议计划在《地球化学》期刊推出专辑。
           </p>
         </div>
