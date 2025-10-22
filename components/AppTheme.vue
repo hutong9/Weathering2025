@@ -421,7 +421,7 @@
                   </div>
                   <div class="flex-1">
                     <h4 class="font-bold text-[#102693] text-base mb-3 group-hover:text-blue-700 transition-colors">
-                      第四纪年代学与风化侵蚀</h4>
+                      高精度放射性核素测定技术在风化侵蚀方面的应用</h4>
                     <div class="flex items-center flex-wrap gap-2">
                       <span class=" text-gray-500 font-medium">主持人：</span>
                       <span
@@ -504,7 +504,7 @@
                   <span
                     class="px-3 py-1 bg-blue-50 text-gray-800  rounded-lg border border-blue-200 font-medium">李乐</span>
                 </div>
-              
+
               </div>
             </div>
             <div class="space-y-3"></div>
@@ -530,11 +530,11 @@
                       class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">聂军胜</span>
                   </div>
 
-                    <div class="flex items-center flex-wrap gap-2">
-                  <span class=" text-gray-500 font-medium">联系方式：</span>
-                  <span
-                    class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">yangyibo@itpcas.ac.cn</span>
-                </div>
+                  <div class="flex items-center flex-wrap gap-2">
+                    <span class=" text-gray-500 font-medium">联系方式：</span>
+                    <span
+                      class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">yangyibo@itpcas.ac.cn</span>
+                  </div>
                 </div>
               </div>
             </div>
