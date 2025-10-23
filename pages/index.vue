@@ -31,7 +31,7 @@
             }" data-aos="fade-up">
               <div class="card-body md:py-20">
                 <h2 class="card-title text-white">我要报告</h2>
-                <p class="text-white">截止日期：2025年10月24日</p>
+                <p class="text-white">截止日期：2025年10月30日</p>
               </div>
             </div>
           </a>
