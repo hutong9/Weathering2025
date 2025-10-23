@@ -163,6 +163,10 @@
                       <span class=" text-gray-500 font-medium">主持人：</span>
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">黄方</span>
+
+                      <span
+                        class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">韩贵琳</span>
+
                       <span
                         class="px-3 py-1 bg-gray-50 text-gray-700  rounded-lg border border-gray-200 hover:bg-blue-50 hover:border-blue-300 transition-colors">金章东</span>
                       <span
