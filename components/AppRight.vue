@@ -45,7 +45,7 @@
 
         <div class="divider"></div>
         <p><b>酒店咨询：</b></p>
-        <p><b>郭丹洁</b> 181 9254 1626,<br>&emsp;&emsp;&emsp;&ensp;danjieguo@kailimice.cn</p>
+        <p><b>刘&emsp;锐</b> 188 2978 1175,<br>&emsp;&emsp;&emsp;&ensp;liurui@kailimice.cn</p>
         <div class="divider"></div>
         <p><b>招商咨询：</b></p>
         <p><b>杨&emsp;群</b> 15109234031，<br>&emsp;&emsp;&emsp;&ensp;yangqun@kailimice.cn</p>
