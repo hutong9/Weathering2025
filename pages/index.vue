@@ -191,25 +191,60 @@
         <h2 class="text-3xl font-bold  text-center m-4 sm:m-10 animate__animated animate__bounceInUp">会议形式
         </h2>
         <div class="container mx-auto">
-          <p class=" animate__animated animate__bounceInUp">
-            <b>本次会议包括学术讨论和野外考察。</b>
+          <p class="animate__animated animate__bounceInUp">
+            本次会议包括：学术讨论和野外考察两个环节。
           </p>
 
-          <p class=" animate__animated animate__bounceInUp">
-            ★ <b>学术讨论不鼓励已有成果展示，报告人做不超过十分钟的背景介绍，着重介绍拟讨论前沿问题的重要性、阐述科学问题的本质、面临的研究难点和未来可能的解决方案。</b>
-          </p>
+          <!-- 学术讨论部分 -->
+          <div class="animate__animated animate__bounceInUp mt-6">
+            <h3 class="text-xl font-bold mb-4">1、学术讨论（11月8-9日）</h3>
+            <div class="ml-4">
+              <p class="font-semibold mb-2">会议讨论形式：</p>
+              <div class="ml-4 space-y-3">
+                <p>
+                  <span
+                    class="font-medium">1）</span>本次会议旨在深度讨论大陆风化前沿科学问题，不鼓励已有成果展示，报告人做不超过十分钟的背景介绍，着重介绍研究问题的重要性、阐述科学问题的本质、面临的研究难点和未来可能的解决方案。
+                </p>
+                <p>
+                  <span class="font-medium">2）</span>本次会议提倡学术民主，鼓励不同学术观点的碰撞和交流，希望与会者在宽松、活泼、和谐的研讨氛围中畅所欲言、各抒己见。
+                </p>
+              </div>
+            </div>
+          </div>
 
-          <p class="  animate__animated animate__bounceInUp">
-            ★ 本次会议提倡学术民主，鼓励不同学术观点的碰撞和交流，希望与会者在宽松、活泼、和谐的研讨氛围中畅所欲言、各抒己见。
-          </p>
+          <!-- 野外考察部分 -->
+          <div class="animate__animated animate__bounceInUp mt-8">
+            <h3 class="text-xl font-bold mb-4">2、野外考察（11月10日）</h3>
+            <div class="ml-4 space-y-3">
+              <div class="bg-gray-50 p-4 rounded-lg">
+                <p class="font-semibold mb-3">行程安排：</p>
+                <div class="space-y-2 ml-2">
+                  <p class="flex items-start">
+                    <span class="font-medium mr-2">08:30</span>
+                    <span>从延安会议酒店出发，预计10:30抵达洛川</span>
+                  </p>
+                  <p class="flex items-start">
+                    <span class="font-medium mr-2">10:30-14:00</span>
+                    <span>考察路线：洛川黑木沟黄土 → 古土壤经典剖面 → 参观科学家精神教育基地展厅 → 陕西黄土高原地球关键带国家野外科学观测研究站 → 考察镇站之宝野外现场</span>
+                  </p>
+                  <p class="flex items-start">
+                    <span class="font-medium mr-2">14:00</span>
+                    <span>从洛川返回延安，预计16:00抵达会议酒店</span>
+                  </p>
+                </div>
+              </div>
 
-          <p class=" animate__animated animate__bounceInUp">
-            野外考察:陕西省延安市洛川黄土-古土壤剖面、苹果种植基地、国家野外站碳汇平台。
-          </p>
-
-          <p class=" animate__animated animate__bounceInUp">
-            本次会议计划在《地球化学》期刊推出专辑。
-          </p>
+              <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mt-4">
+                <p class="font-bold text-blue-900">
+                  ⚠️ 重要提醒：如确认参加野外考察环节，请务必提前扫描下方二维码进行登记！
+                </p>
+                <p class="mt-2 text-sm text-gray-600">信息收集二维码</p>
+                <div class="flex justify-center">
+                  <img src="/img/640.png" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -249,8 +284,9 @@ const backgroundImageUrl4 = ref('/img/005.png');
 p {
   font-size: 16px;
   line-height: 30px;
-  text-align: justify;
-  padding: 10px 0;
+  /* text-align: justify;
+  padding: 10px 0; */
+
 }
 
 .text_p {
