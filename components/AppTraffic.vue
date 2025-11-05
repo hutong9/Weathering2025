@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-11-05 12:14:56
+ * @LastEditTime: 2025-11-05 13:57:50
  * @FilePath: \Weathering2025\components\AppTraffic.vue
  * @Description: 
  * 
@@ -101,21 +101,21 @@
                   <ul class="space-y-1 text-sm">
                     <li class="flex items-start">
                       <span class="text-blue-600 mr-2">•</span>
-                      <span>(1)T2航站楼接机口（大巴停车场方向出口），接机人:陈晨:15596600450</span>
+                      <span>(1)T2航站楼接机口（大巴停车场方向出口），接机人：陈晨：15596600450</span>
                     </li>
                     <li class="flex items-start">
                       <span class="text-blue-600 mr-2">•</span>
-                      <span>(2)T3航站楼接机口（大巴停车场方向出口），接机人:汪泓涛:17731027375</span>
+                      <span>(2)T3航站楼接机口（大巴停车场方向出口），接机人：汪泓涛：:17731027375</span>
                     </li>
                     <li class="flex items-start">
                       <span class="text-blue-600 mr-2">•</span>
-                      <span>(3)T5航站楼接机口（大巴停车场方向出口），接机人:周广鹏:15291845504</span>
+                      <span>(3)T5航站楼接机口（大巴停车场方向出口），接机人：周广鹏：15291845504</span>
                     </li>
                   </ul>
                 </div>
                 <div class="bg-white p-3 rounded border border-blue-200">
                   <p class="font-semibold text-blue-800 mb-2">🚌 上车点:</p>
-                  <p class="text-sm">西安咸阳国际机场大巴停车场（地上），跟车人员：杨潇潇:18706754323、苏圣博:13891261538</p>
+                  <p class="text-sm">西安咸阳国际机场大巴停车场（地上），跟车人员：杨潇潇：18706754323、苏圣博：13891261538</p>
                 </div>
               </div>
             </div>
