@@ -2,7 +2,7 @@
  * @Author: HuTong 470048408@qq.com
  * @Date: 2025-08-08 13:15:19
  * @LastEditors: HuTong 470048408@qq.com
- * @LastEditTime: 2025-11-05 11:50:41
+ * @LastEditTime: 2025-11-11 16:54:57
  * @FilePath: \Weathering2025\components\AppNews.vue
  * @Description: 
  * 
@@ -19,11 +19,29 @@
         <div class="max-w-2xl mx-auto mt-4">
 
 
+
+
+          <div class="flex gap-3 bg-white border border-gray-300 rounded-xl overflow-hidden items-center justify-start">
+            <div class="flex flex-col gap-2 py-2">
+              <a href="https://cdn.meeting666.com/book/web/viewer.html?file=weathering2025.pdf">
+                <div class="inline-flex items-center">
+                  <p class="text-xl hover:text-blue-800 pl-4">会议手册下载</p>
+                  <img src="/img/new.gif" alt="新图标" class="ml-2 inline-block">
+                  <img src="/img/hot.gif" alt="新图标" class="ml-2 inline-block">
+                </div>
+              </a>
+              <p class="text-gray-400 pl-4">
+                2025年11月05日
+              </p>
+            </div>
+          </div>
+
+
           <div class="flex gap-3 bg-white border border-gray-300 rounded-xl overflow-hidden items-center justify-start">
             <div class="flex flex-col gap-2 py-2">
               <a href="https://mp.weixin.qq.com/s/IfcgQUzabp9jXjIEn-ZYBg">
                 <div class="inline-flex items-center">
-                  <p class="text-xl hover:text-blue-800 pl-4">第三轮会议通知及会议手册</p>
+                  <p class="text-xl hover:text-blue-800 pl-4">第三轮会议通知</p>
                   <img src="/img/new.gif" alt="新图标" class="ml-2 inline-block">
                   <img src="/img/hot.gif" alt="新图标" class="ml-2 inline-block">
                 </div>
